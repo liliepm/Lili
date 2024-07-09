@@ -1,5 +1,5 @@
 console.log("Hola");
-var colorsArray = ["blue", "green", "pink", "yellow"];
+var colorsArray = ["#f15025", "rgba(133,122,200)", "pink", "yellow"];
 
 const btn = document.getElementById("btn");
 //var color = document.getElementByClassName("color");
