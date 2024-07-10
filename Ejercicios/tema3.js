@@ -15,3 +15,7 @@ var concatenandoDos = arregloAnimales.concat(frutas);
 
 console.log(concatenando);
 console.log(concatenandoDos);
+
+
+
+console.log('Mensaje de Jona')
