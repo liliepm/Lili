@@ -8,7 +8,7 @@ var stado = "Puebla";
 //var guardarEstado = stado ? "Todo bien" : "Error";//Variables boolean
 var guardarEstado = stado != "Queretaro" ? 10 : "Error"; //Variables con strings
 //----------------------------------------------------------------------------------
-var arregloAnimales = ["perro", "gato", "delfin"];
+var arregloAnimales = ["perro", "gato", "leon"];
 var frutas = ["manzana", "pera", "platano"];
 var concatenando = arregloAnimales.join(",");
 var concatenandoDos = arregloAnimales.concat(frutas);
@@ -16,6 +16,4 @@ var concatenandoDos = arregloAnimales.concat(frutas);
 console.log(concatenando);
 console.log(concatenandoDos);
 
-
-
-console.log('Mensaje de Jona')
+console.log("Mensaje de Jona");
